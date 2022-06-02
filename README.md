@@ -94,4 +94,4 @@ pages={51--54}
 Something not working as expected?
 ------------------------------------
 
-Please contact **Masud Rahman** (masud.rahman@usask.ca) or [create a new issue](https://github.com/masud-technope/RACK-Server/issues/new) for further information.
+Please contact **Noshin Nawal** (noshin.nawal@g.racu.ac.bd) or [create a new issue](https://github.com/Nawal095/RACK-python/issues/new) for further information.
