@@ -6,11 +6,15 @@ Please download the [**Word2Vec Model**](https://drive.google.com/file/d/0B7XkCw
 
 This implementation ships with a virtual environment. Please run the following command to activate the environment in Windows:
 
-```RACK-env\Scripts\activate```
+```
+RACK-env\Scripts\activate
+```
 
 Below is an example of how to run the `RACK.py`. It will produce the results of *ranked_API_list*:
 
-```python RACK.py "How to parse HTML in Java?"```
+```
+python RACK.py "How to parse HTML in Java?"
+```
 
 It will give the following output:
 
@@ -95,4 +99,4 @@ pages={51--54}
 Something not working as expected?
 ------------------------------------
 
-Please contact **Noshin Nawal** (noshin.nawal@g.racu.ac.bd) or [create a new issue](https://github.com/Nawal095/RACK-python/issues/new) for further information.
+Please contact **Noshin Nawal** (noshin.nawal@g.bracu.ac.bd) or [create a new issue](https://github.com/Nawal095/RACK-python/issues/new) for further information.
