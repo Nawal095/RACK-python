@@ -4,13 +4,13 @@ This is a Python Implementation for the Source code of RACK. The original Java i
 
 Please download the [**Word2Vec Model**](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing) and unzip it in the root folder.
 
-This implementation ships with a virtual environment. Please follow the following commands to activate the environment in Windows:
+This implementation ships with a virtual environment. Please run the following command to activate the environment in Windows:
 
-`RACK-env\Scripts\activate`
+```RACK-env\Scripts\activate```
 
 Below is an example of how to run the `RACK.py`. It will produce the results of *ranked_API_list*:
 
-`python RACK.py "How to parse HTML in Java?"`
+```python RACK.py "How to parse HTML in Java?"```
 
 It will give the following output:
 
@@ -31,7 +31,8 @@ We have also included a python notebook for the user convenience in terms of exp
 
 ### Citation
 
-Accepted Papers (3)
+Please read the following papers for better understanding RACK.
+
 -----------------------------------------
 ```
 M. Masudur Rahman, Chanchal K. Roy and David Lo, "Automatic Query Reformulation for Code Search using 
