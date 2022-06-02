@@ -27,6 +27,7 @@ It will give the following output:
 | Document | 1.0 | 1.0 | 0.118169226 | 0.08750000000000001 |
 | JFrame | 0.2105263157894737 | 0.0 | 0.0 | 0.09750000000000002 |
 
+We have also included a python notebook for the user convenience in terms of exploration.
 
 ### Citation
 
