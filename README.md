@@ -59,7 +59,7 @@ pp. 51--54, Buenos Aires, Argentina, May, 2017
 **Download this paper:**  [<img src="https://img.icons8.com/color/344/pdf.png"
      alt="PDF" heigh="16px" width="16px" />](http://homepage.usask.ca/~masud.rahman/papers/masud-ICSE2017.pdf)
      
-You can cite the papers wrutten by Rahman et al.
+You can cite the papers written by Rahman et al.
 ------------------------------------------------------------
 ```
 @INPROCEEDINGS{emse2018masud,
